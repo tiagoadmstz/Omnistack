@@ -1,0 +1,2 @@
+# Omnistack
+Projeto de aprendizado
